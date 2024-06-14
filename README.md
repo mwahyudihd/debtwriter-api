@@ -4,10 +4,10 @@
 
 ## Fitur
 
-- Menambahkan pengguna
-- Mengupdate informasi pengguna
-- Menghapus pengguna
-- Mendapatkan informasi pengguna
+- Menambahkan pengguna/hutang
+- Mengupdate informasi pengguna/hutang
+- Menghapus pengguna/hutang
+- Mendapatkan informasi pengguna/hutang
 
 ## Instalasi
 
