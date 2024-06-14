@@ -142,10 +142,10 @@ Deskripsi: Menghapus pengguna berdasarkan ID.
 ```
 
 ### API KEY
-GET `http://127.0.0.1:YOUR_PORT/debt-api/debt` untuk berdasarkan ID `http://127.0.0.1:YOUR_PORT/debt-api/debt/:id`
-POST `http://127.0.0.1:YOUR_PORT/debt-api/debt`
-PUT `http://127.0.0.1:YOUR_PORT/debt-api/debt/:id`
-DELETE `http://127.0.0.1:YOUR_PORT/debt-api/debt/:id`
+- GET `http://127.0.0.1:YOUR_PORT/debt-api/debt` untuk berdasarkan ID `http://127.0.0.1:YOUR_PORT/debt-api/debt/:id`
+- POST `http://127.0.0.1:YOUR_PORT/debt-api/debt`
+- PUT `http://127.0.0.1:YOUR_PORT/debt-api/debt/:id`
+- DELETE `http://127.0.0.1:YOUR_PORT/debt-api/debt/:id`
 
 # Contributing
 Silakan buat pull request untuk kontribusi.
