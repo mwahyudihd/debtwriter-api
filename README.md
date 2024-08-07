@@ -107,7 +107,7 @@ Deskripsi: Updating data by ID.
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `objectId` | **Required**. Id of item to modify |
-Note: `attributes to be updated optional` can be entered and not e.g. you can update user / debt data without entering attributes and password values :
+Note: `attributes to be updated optional` can be entered and not e.g. you can update user / debt data without entering attributes and password values etc.
 
 ## DELETE
 - Endpoint:
