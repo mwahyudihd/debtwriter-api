@@ -46,7 +46,7 @@ Here are some of the available endpoints in the debtwriter-api:
 ```http
   POST http://127.0.0.1:YOUR_PORT/debt-api/items
 ```
-description: Creating new user.
+Description: Creating new user.
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `user`      | `string` | **Required**. Key of items |
@@ -82,7 +82,7 @@ Model:
 ```http
   GET http://127.0.0.1:YOUR_PORT/debt-api/items/${id}
 ```
-Deskripsi: Getting information data with ID.
+Description: Getting information data with ID.
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `objectId` | **Required**. Id of item to fetch |
@@ -92,7 +92,7 @@ Deskripsi: Getting information data with ID.
 ```http
   GET http://127.0.0.1:YOUR_PORT/debt-api/items
 ```
-Deskripsi: Getting All data of items.
+Description: Getting All data of items.
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `user`      | `string` | **Required**. Key of items |
@@ -103,7 +103,7 @@ Deskripsi: Getting All data of items.
 ```http
   PUT http://127.0.0.1:YOUR_PORT/debt-api/items/${id}
 ```
-Deskripsi: Updating data by ID.
+Description: Updating data by ID.
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `objectId` | **Required**. Id of item to modify |
@@ -114,7 +114,7 @@ Note: `attributes to be updated optional` can be entered and not e.g. you can up
 ```http
   DELETE http://127.0.0.1:YOUR_PORT/debt-api/items/${id}
 ```
-Deskripsi: Removing data by ID.
+Description: Removing data by ID.
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `objectId` | **Required**. Id of item to remove |
