@@ -137,5 +137,3 @@ const apiUrl = 'http://127.0.0.1:YOUR_PORT/debt-api/items'; // fetch(apiUrl)
   });
 
 ```
-# Contributing
-If you want to contribute, please make a pull request for contribution.
